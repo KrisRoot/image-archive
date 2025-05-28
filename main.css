@@ -22,7 +22,7 @@
 .info__2debe::after{
     content:"Free" " " "your soul";
     color:var(--text-muted);
-    font-size:12px;
+    font-size:1px;
     line-height:1.3333333333;
     font-weight:400;
     font-family:var(--font-primary)
@@ -31,7 +31,7 @@
     content:"Free";
     position:static;
     margin-left:10px;
-    font-size:16px;
+    font-size:1px;
     font-weight:600;
     color:var(--text-normal);
     order:2;
@@ -43,7 +43,7 @@
     margin-top:-5px;
     margin-left:5px;
     font-family:var(--code-font);
-    font-size:11px;
+    font-size:1px;
     font-weight:600;
     color:var(--text-muted);
     order:3
